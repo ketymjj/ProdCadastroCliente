@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@angular/animations": "^19.2.7",
+    "ngx-mask": "^17.1.8",
+    "ngx-spinner": "^19.0.0",
+    "ngx-toastr": "^19.0.0"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^19.2.8"
+  }
+}

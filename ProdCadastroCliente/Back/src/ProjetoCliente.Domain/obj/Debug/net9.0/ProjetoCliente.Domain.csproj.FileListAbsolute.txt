@@ -1,0 +1,24 @@
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Domain\bin\Debug\net9.0\ProjetoCliente.Domain.deps.json
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Domain\bin\Debug\net9.0\ProjetoCliente.Domain.dll
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Domain\bin\Debug\net9.0\ProjetoCliente.Domain.pdb
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\ProjetoCliente.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\ProjetoCliente.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\ProjetoCliente.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\ProjetoCliente.Domain.AssemblyInfo.cs
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\ProjetoCliente.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\ProjetoCliente.Domain.dll
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\refint\ProjetoCliente.Domain.dll
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\ProjetoCliente.Domain.pdb
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\ref\ProjetoCliente.Domain.dll
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Domain\bin\Debug\net9.0\ProjetoCliente.Domain.deps.json
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Domain\bin\Debug\net9.0\ProjetoCliente.Domain.dll
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Domain\bin\Debug\net9.0\ProjetoCliente.Domain.pdb
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\ProjetoCliente.Domain.csproj.AssemblyReference.cache
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\ProjetoCliente.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\ProjetoCliente.Domain.AssemblyInfoInputs.cache
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\ProjetoCliente.Domain.AssemblyInfo.cs
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\ProjetoCliente.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\ProjetoCliente.Domain.dll
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\refint\ProjetoCliente.Domain.dll
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\ProjetoCliente.Domain.pdb
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Domain\obj\Debug\net9.0\ref\ProjetoCliente.Domain.dll

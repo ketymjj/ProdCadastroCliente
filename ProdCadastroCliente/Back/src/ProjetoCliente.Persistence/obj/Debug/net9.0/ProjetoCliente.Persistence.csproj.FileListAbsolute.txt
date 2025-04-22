@@ -1,0 +1,34 @@
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoCliente.Persistence.csproj.AssemblyReference.cache
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoCliente.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoCliente.Persistence.AssemblyInfoInputs.cache
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoCliente.Persistence.AssemblyInfo.cs
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoCliente.Persistence.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\bin\Debug\net9.0\ProjetoCliente.Persistence.deps.json
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\bin\Debug\net9.0\ProjetoCliente.Persistence.runtimeconfig.json
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\bin\Debug\net9.0\ProjetoCliente.Persistence.dll
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\bin\Debug\net9.0\ProjetoCliente.Persistence.pdb
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\bin\Debug\net9.0\ProjetoCliente.Domain.dll
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\bin\Debug\net9.0\ProjetoCliente.Domain.pdb
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoC.68AD822D.Up2Date
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoCliente.Persistence.dll
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\refint\ProjetoCliente.Persistence.dll
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoCliente.Persistence.pdb
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoCliente.Persistence.genruntimeconfig.cache
+C:\Projetos\Projetos em Angular\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ref\ProjetoCliente.Persistence.dll
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoCliente.Persistence.csproj.AssemblyReference.cache
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoCliente.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoCliente.Persistence.AssemblyInfoInputs.cache
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoCliente.Persistence.AssemblyInfo.cs
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoCliente.Persistence.csproj.CoreCompileInputs.cache
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoCliente.Persistence.dll
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\refint\ProjetoCliente.Persistence.dll
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoCliente.Persistence.pdb
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\bin\Debug\net9.0\ProjetoCliente.Persistence.deps.json
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\bin\Debug\net9.0\ProjetoCliente.Persistence.runtimeconfig.json
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\bin\Debug\net9.0\ProjetoCliente.Persistence.dll
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\bin\Debug\net9.0\ProjetoCliente.Persistence.pdb
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\bin\Debug\net9.0\ProjetoCliente.Domain.dll
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\bin\Debug\net9.0\ProjetoCliente.Domain.pdb
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoC.68AD822D.Up2Date
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ProjetoCliente.Persistence.genruntimeconfig.cache
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Persistence\obj\Debug\net9.0\ref\ProjetoCliente.Persistence.dll

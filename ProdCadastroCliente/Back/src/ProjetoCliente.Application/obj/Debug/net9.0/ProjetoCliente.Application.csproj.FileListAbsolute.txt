@@ -1,0 +1,17 @@
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\bin\Debug\net9.0\ProjetoCliente.Application.deps.json
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\bin\Debug\net9.0\ProjetoCliente.Application.dll
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\bin\Debug\net9.0\ProjetoCliente.Application.pdb
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\bin\Debug\net9.0\ProjetoCliente.Domain.dll
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\bin\Debug\net9.0\ProjetoCliente.Persistence.dll
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\bin\Debug\net9.0\ProjetoCliente.Domain.pdb
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\bin\Debug\net9.0\ProjetoCliente.Persistence.pdb
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\obj\Debug\net9.0\ProjetoCliente.Application.csproj.AssemblyReference.cache
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\obj\Debug\net9.0\ProjetoCliente.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\obj\Debug\net9.0\ProjetoCliente.Application.AssemblyInfoInputs.cache
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\obj\Debug\net9.0\ProjetoCliente.Application.AssemblyInfo.cs
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\obj\Debug\net9.0\ProjetoCliente.Application.csproj.CoreCompileInputs.cache
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\obj\Debug\net9.0\ProjetoC.0224FFD7.Up2Date
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\obj\Debug\net9.0\ProjetoCliente.Application.dll
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\obj\Debug\net9.0\refint\ProjetoCliente.Application.dll
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\obj\Debug\net9.0\ProjetoCliente.Application.pdb
+C:\Projetos1\ProdCadastroCliente\back\src\ProjetoCliente.Application\obj\Debug\net9.0\ref\ProjetoCliente.Application.dll
